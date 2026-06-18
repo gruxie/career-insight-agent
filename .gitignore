@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Personal data — source documents and all generated outputs
+02_inputs/pdf/*.pdf
+04_outputs/md/*.md
+04_outputs/json/*.json
+04_outputs/resumes/*.md
+04_outputs/portfolios/*.md
+04_outputs/career_timeline.json
